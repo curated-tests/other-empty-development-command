@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "rm -rf output && mkdir output && echo 'test' > output/index.html"
+    }
+}
